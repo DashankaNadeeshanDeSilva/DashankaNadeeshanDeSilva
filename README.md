@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I am a Master student at the @tuhh, Machine Learning (Deep Learning) & Reinforcement Learning enthusiast, passionate in applying them for solving real-world problems.
 
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Master student at the @tuhh, Machine Learning (Deep Learning) & Reinforcement Learning enthusiast, passionate in applying them for solving real-world problems.
