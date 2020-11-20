@@ -14,6 +14,8 @@ I am a Master student at the **@tuhh**, Machine Learning (Deep Learning) & Reinf
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Add more about my projects 
+
 
 --->
 
