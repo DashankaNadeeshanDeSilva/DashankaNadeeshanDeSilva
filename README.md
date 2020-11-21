@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I am a Master student at the **@TUHH**, and I am a Machine Learning (particulaly in Deep Learning) & Reinforcement Learning enthusiast, and passionate in applying AI for solving real-world problems in application areas of Robotics, Computer vision and NLP.
-*I believe self learning and try by yourself is the best way to learn AI.*
+*I believe self learning and trying by yourself is the best way to learn AI.*
 
 I work at *Brainershub GmbH* as a student worker in Artificial Intelligent and Data Science. We build Machine learning and NLP based tools and solutions for  smart analytics and intelligent insights.
 
