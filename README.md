@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a Master student at the **@TUHH** and I am a Machine Learning (Deep Learning) & Reinforcement Learning enthusiast, passionate in applying AI for solving real-world problems.
+I am a Master student at the **@TUHH**, and I am a Machine Learning (Deep Learning) & Reinforcement Learning enthusiast, passionate in applying AI for solving real-world problems.
 
 **WORK**: *Brainershub GmbH* as a student worker in Artificial Intelligent and Data Science. We build Machine learning and NLP based tools and solutions for  smart analytics and intelligent insights.
 
