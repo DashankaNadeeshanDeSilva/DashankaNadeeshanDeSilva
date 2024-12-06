@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Data Science and Machine Learning enthusiast who would love to solve real-world problems to create business values with end-to-end solutions.
+I am an AI engineering enthusiast who would love to solve real-world problems to create business values with end-to-end solutions.
  <!--- 
 ; this includes courses: Robotics, Machine learaning, Computer vision, Embedded Systems, Control Systems and more.
 
