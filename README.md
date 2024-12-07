@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am an AI engineering enthusiast who would love to solve real-world problems to create business values with end-to-end solutions.
+I am an AI engineering enthusiast who loves solving real-world problems by developing end-to-end solutions that create business value.
  <!--- 
 ; this includes courses: Robotics, Machine learaning, Computer vision, Embedded Systems, Control Systems and more.
 
