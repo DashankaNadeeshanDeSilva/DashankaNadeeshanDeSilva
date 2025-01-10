@@ -1,10 +1,10 @@
 #### Hello 👋
 
-I am an AI engineering enthusiast who loves working on real-world problems by developing end-to-end solutions that create business value.
+I am an AI engineering enthusiast who loves working on real-world problems by developing end-to-end solutions that create business value. Currently, I am working on exploring and developing GenAi applications like AI Agents.
  <!--- 
 ; this includes courses: Robotics, Machine learaning, Computer vision, Embedded Systems, Control Systems and more.
 
-M
+
 
  Most of my self-conducted projects done for the sake of learaning are published here. 
  
