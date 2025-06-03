@@ -1,6 +1,6 @@
 #### Hello 👋
 
-I am an AI engineering enthusiast who loves working on real-world problems by developing end-to-end solutions that create business value. Currently, I am working on exploring and developing GenAI applications like AI Agentic and RAG systems.
+I am an AI engineering enthusiast who loves working on real-world problems by developing end-to-end solutions that create business value. Currently, I am working on exploring and developing GenAI applications, including AI agents and RAG systems.
  <!--- 
 ; this includes courses: Robotics, Machine learaning, Computer vision, Embedded Systems, Control Systems and more.
 
