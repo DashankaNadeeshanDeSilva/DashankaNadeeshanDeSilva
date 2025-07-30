@@ -2,7 +2,7 @@
 
 I am a passionate AI engineer who loves working on real-world problems by developing end-to-end solutions that create business value. 
 
-Currently, I am working on exploring and developing GenAI applications, including agentic AI.
+Currently, I am working on exploring the potential of GenAI and developing applications, including AI agents.
  <!--- 
 ; this includes courses: Robotics, Machine learaning, Computer vision, Embedded Systems, Control Systems and more.
 
